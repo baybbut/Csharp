@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "THEWuc2FlXw=",
+  "success": true,
+  "projectFilePath": "/Users/thuhuynh/Desktop/C#/Csharp/iltools/iltools.csproj",
+  "expectedPackageFiles": [
+    "/Users/thuhuynh/.nuget/packages/runtime.osx-x64.microsoft.netcore.ilasm/10.0.0/runtime.osx-x64.microsoft.netcore.ilasm.10.0.0.nupkg.sha512",
+    "/Users/thuhuynh/.nuget/packages/runtime.osx-x64.microsoft.netcore.ildasm/10.0.0/runtime.osx-x64.microsoft.netcore.ildasm.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

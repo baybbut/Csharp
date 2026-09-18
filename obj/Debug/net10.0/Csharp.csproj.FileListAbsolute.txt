@@ -1,0 +1,14 @@
+/Users/thuhuynh/Desktop/C#/Csharp/bin/Debug/net10.0/Csharp
+/Users/thuhuynh/Desktop/C#/Csharp/bin/Debug/net10.0/Csharp.deps.json
+/Users/thuhuynh/Desktop/C#/Csharp/bin/Debug/net10.0/Csharp.runtimeconfig.json
+/Users/thuhuynh/Desktop/C#/Csharp/bin/Debug/net10.0/Csharp.dll
+/Users/thuhuynh/Desktop/C#/Csharp/bin/Debug/net10.0/Csharp.pdb
+/Users/thuhuynh/Desktop/C#/Csharp/obj/Debug/net10.0/Csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuhuynh/Desktop/C#/Csharp/obj/Debug/net10.0/Csharp.AssemblyInfoInputs.cache
+/Users/thuhuynh/Desktop/C#/Csharp/obj/Debug/net10.0/Csharp.AssemblyInfo.cs
+/Users/thuhuynh/Desktop/C#/Csharp/obj/Debug/net10.0/Csharp.csproj.CoreCompileInputs.cache
+/Users/thuhuynh/Desktop/C#/Csharp/obj/Debug/net10.0/Csharp.dll
+/Users/thuhuynh/Desktop/C#/Csharp/obj/Debug/net10.0/refint/Csharp.dll
+/Users/thuhuynh/Desktop/C#/Csharp/obj/Debug/net10.0/Csharp.pdb
+/Users/thuhuynh/Desktop/C#/Csharp/obj/Debug/net10.0/Csharp.genruntimeconfig.cache
+/Users/thuhuynh/Desktop/C#/Csharp/obj/Debug/net10.0/ref/Csharp.dll
